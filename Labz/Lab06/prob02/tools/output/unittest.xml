@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="10" failures="0" disabled="0" errors="0" time="0.013" timestamp="2022-09-30T01:36:16.111" name="AllTests">
+  <testsuite name="Cup" tests="6" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-09-30T01:36:16.111">
+    <testcase name="DefaultConstructor" status="run" result="completed" time="0" timestamp="2022-09-30T01:36:16.111" classname="Cup" />
+    <testcase name="NonDefaultConstructor" status="run" result="completed" time="0" timestamp="2022-09-30T01:36:16.111" classname="Cup" />
+    <testcase name="TestDrinkReducesFluidOz" status="run" result="completed" time="0" timestamp="2022-09-30T01:36:16.111" classname="Cup" />
+    <testcase name="TestRefill" status="run" result="completed" time="0" timestamp="2022-09-30T01:36:16.111" classname="Cup" />
+    <testcase name="TestNewDrink" status="run" result="completed" time="0" timestamp="2022-09-30T01:36:16.111" classname="Cup" />
+    <testcase name="TestEmpty" status="run" result="completed" time="0" timestamp="2022-09-30T01:36:16.111" classname="Cup" />
+  </testsuite>
+  <testsuite name="Driver" tests="4" failures="0" disabled="0" skipped="0" errors="0" time="0.013" timestamp="2022-09-30T01:36:16.111">
+    <testcase name="StartWith8ozDrink2oz" status="run" result="completed" time="0.003" timestamp="2022-09-30T01:36:16.111" classname="Driver" />
+    <testcase name="StartWith8ozRefill1oz" status="run" result="completed" time="0.003" timestamp="2022-09-30T01:36:16.115" classname="Driver" />
+    <testcase name="NewDrink" status="run" result="completed" time="0.002" timestamp="2022-09-30T01:36:16.118" classname="Driver" />
+    <testcase name="Empty" status="run" result="completed" time="0.003" timestamp="2022-09-30T01:36:16.121" classname="Driver" />
+  </testsuite>
+</testsuites>

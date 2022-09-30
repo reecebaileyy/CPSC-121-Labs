@@ -21,16 +21,6 @@
       "points": 1
     },
     {
-      "name": "Verify implementation of prob03",
-      "setup": "",
-      "run": "cd prob03 && make build",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 3,
-      "points": 1
-    },
-    {
       "name": "Check readability of prob01",
       "setup": "",
       "run": "cd prob01 && make clean && make stylecheck && make formatcheck",
@@ -51,24 +41,14 @@
       "points": 1
     },
     {
-      "name": "Check readability of prob03",
-      "setup": "",
-      "run": "cd prob03 && make clean && make stylecheck && make formatcheck",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 3,
-      "points": 1
-    },
-    {
       "name": "Prob01 All tests",
       "setup": "",
       "run": "cd prob01 && make clean && make test",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 3,
-      "points": 6
+      "timeout": 5,
+      "points": 10
     },
     {
       "name": "Prob02 all tests",
@@ -77,28 +57,8 @@
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 3,
-      "points": 7
-    },
-    {
-      "name": "Prob03 all tests",
-      "setup": "",
-      "run": "cd prob03 && make clean && make test",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 3,
-      "points": 6
-    },
-    {
-      "name": "Prob01 return 0 when the vector has one element",
-      "setup": "",
-      "run": "cd prob01 && make clean && make build && ./main",
-      "input": "1\r\n42",
-      "output": "0",
-      "comparison": "included",
-      "timeout": 3,
-      "points": 1
+      "timeout": 5,
+      "points": 10
     }
   ]
 }
