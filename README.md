@@ -2,7 +2,7 @@
 
 These are a collection of my C++ projects from CSUF 
 
-(01/26/2023 - 05/25/2023)
+(08/23/2022 - 01/23/2023)
 # Execution and Testing
 
 Execution and testing are controlled with a *Makefile* written for [GNU Make](https://www.gnu.org/software/make/). The included Makefile has several targets you can use during development. As mentioned earlier, do not modify the *Makefile* file.
