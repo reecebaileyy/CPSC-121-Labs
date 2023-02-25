@@ -1,4 +1,4 @@
-# CPSC 131 Data Structures
+# CPSC 121 Object Oriented Programming
 
 These are a collection of my C++ projects from CSUF 
 
