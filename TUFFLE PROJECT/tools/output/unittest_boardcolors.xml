@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="11" failures="0" disabled="0" errors="0" time="0.22" timestamp="2022-12-18T02:25:14.456" name="AllTests">
+  <testsuite name="TuffleGame" tests="11" failures="0" disabled="0" skipped="0" errors="0" time="0.22" timestamp="2022-12-18T02:25:14.456">
+    <testcase name="PublicMethodsPresent" status="run" result="completed" time="0.018" timestamp="2022-12-18T02:25:14.456" classname="TuffleGame" />
+    <testcase name="GameStateInJsonHasAnswerWhenNewGame" status="run" result="completed" time="0.02" timestamp="2022-12-18T02:25:14.475" classname="TuffleGame" />
+    <testcase name="GameStateInJsonHasBoardColorsWhenNewGame" status="run" result="completed" time="0.021" timestamp="2022-12-18T02:25:14.495" classname="TuffleGame" />
+    <testcase name="BoardColorsAllIncorrectLettersInGuess" status="run" result="completed" time="0.02" timestamp="2022-12-18T02:25:14.517" classname="TuffleGame" />
+    <testcase name="BoardColorsCorrectLetterWrongPlace" status="run" result="completed" time="0.02" timestamp="2022-12-18T02:25:14.537" classname="TuffleGame" />
+    <testcase name="BoardColorsCorrectLettersWrongPlace" status="run" result="completed" time="0.02" timestamp="2022-12-18T02:25:14.558" classname="TuffleGame" />
+    <testcase name="BoardColorsAllCorrectLettersInGuess" status="run" result="completed" time="0.02" timestamp="2022-12-18T02:25:14.578" classname="TuffleGame" />
+    <testcase name="BoardColorsMultipleGuesses" status="run" result="completed" time="0.02" timestamp="2022-12-18T02:25:14.598" classname="TuffleGame" />
+    <testcase name="BoardColorsAllIncorrectLettersInGuessForTuffy" status="run" result="completed" time="0.019" timestamp="2022-12-18T02:25:14.619" classname="TuffleGame" />
+    <testcase name="BoardColorsDuplicateLettersInGuessShouldPrioritizeGreenLetters" status="run" result="completed" time="0.018" timestamp="2022-12-18T02:25:14.639" classname="TuffleGame" />
+    <testcase name="BoardColorsDuplicateFLettersInGuessForTuffy" status="run" result="completed" time="0.018" timestamp="2022-12-18T02:25:14.658" classname="TuffleGame" />
+  </testsuite>
+</testsuites>

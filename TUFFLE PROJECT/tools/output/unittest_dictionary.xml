@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="8" failures="0" disabled="0" errors="0" time="0.063" timestamp="2022-12-18T02:25:36.915" name="AllTests">
+  <testsuite name="Dictionary" tests="8" failures="0" disabled="0" skipped="0" errors="0" time="0.062" timestamp="2022-12-18T02:25:36.916">
+    <testcase name="PublicMethodsPresent" status="run" result="completed" time="0.008" timestamp="2022-12-18T02:25:36.916" classname="Dictionary" />
+    <testcase name="IsValidGuessTrueForValidGuess" status="run" result="completed" time="0.007" timestamp="2022-12-18T02:25:36.924" classname="Dictionary" />
+    <testcase name="IsValidGuessFalseForInvalidGuess" status="run" result="completed" time="0.007" timestamp="2022-12-18T02:25:36.932" classname="Dictionary" />
+    <testcase name="IsValidGuessFalseForTooShortGuess" status="run" result="completed" time="0.006" timestamp="2022-12-18T02:25:36.939" classname="Dictionary" />
+    <testcase name="IsValidGuessFalseForTooLongGuess" status="run" result="completed" time="0.008" timestamp="2022-12-18T02:25:36.946" classname="Dictionary" />
+    <testcase name="GetRandomTuffleValidLength" status="run" result="completed" time="0.008" timestamp="2022-12-18T02:25:36.954" classname="Dictionary" />
+    <testcase name="GetRandomTuffleSubsequentWordsAreDifferent" status="run" result="completed" time="0.007" timestamp="2022-12-18T02:25:36.962" classname="Dictionary" />
+    <testcase name="RandomTuffleIsValidGuess" status="run" result="completed" time="0.008" timestamp="2022-12-18T02:25:36.970" classname="Dictionary" />
+  </testsuite>
+</testsuites>

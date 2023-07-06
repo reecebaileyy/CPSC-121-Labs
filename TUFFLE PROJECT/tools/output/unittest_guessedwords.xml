@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="14" failures="0" disabled="0" errors="0" time="0.216" timestamp="2022-12-18T02:27:01.955" name="AllTests">
+  <testsuite name="TuffleGame" tests="14" failures="0" disabled="0" skipped="0" errors="0" time="0.215" timestamp="2022-12-18T02:27:01.955">
+    <testcase name="PublicMethodsPresent" status="run" result="completed" time="0.017" timestamp="2022-12-18T02:27:01.955" classname="TuffleGame" />
+    <testcase name="GameStateInJsonHasGuessedWordsWhenNewGame" status="run" result="completed" time="0.016" timestamp="2022-12-18T02:27:01.972" classname="TuffleGame" />
+    <testcase name="GameStateInJsonHasGuessedWordsWhenOneLetterTyped" status="run" result="completed" time="0.015" timestamp="2022-12-18T02:27:01.989" classname="TuffleGame" />
+    <testcase name="GameStateInJsonHasGuessedWordsWhenOneWordSubmitted" status="run" result="completed" time="0.015" timestamp="2022-12-18T02:27:02.004" classname="TuffleGame" />
+    <testcase name="GameStateInJsonHasGuessedWordsWhenMultipleWordsSubmitted" status="run" result="completed" time="0.015" timestamp="2022-12-18T02:27:02.020" classname="TuffleGame" />
+    <testcase name="GameStateInJsonHasGuessedWordsAfterNewGameReset" status="run" result="completed" time="0.015" timestamp="2022-12-18T02:27:02.035" classname="TuffleGame" />
+    <testcase name="PressingMoreThanFiveCharactersDoesNotChangeState" status="run" result="completed" time="0.015" timestamp="2022-12-18T02:27:02.051" classname="TuffleGame" />
+    <testcase name="GuessedWordsStoresPartiallyTypedWord" status="run" result="completed" time="0.014" timestamp="2022-12-18T02:27:02.066" classname="TuffleGame" />
+    <testcase name="GuessedWordsStoresOneWord" status="run" result="completed" time="0.013" timestamp="2022-12-18T02:27:02.081" classname="TuffleGame" />
+    <testcase name="PressingMoreThanFiveCharactersDoesNotChangeGuessedWord" status="run" result="completed" time="0.015" timestamp="2022-12-18T02:27:02.095" classname="TuffleGame" />
+    <testcase name="GuessedWordsStoresMultipleSubmittedWords" status="run" result="completed" time="0.014" timestamp="2022-12-18T02:27:02.110" classname="TuffleGame" />
+    <testcase name="DeletingCharactersChangesGuessedWord" status="run" result="completed" time="0.014" timestamp="2022-12-18T02:27:02.125" classname="TuffleGame" />
+    <testcase name="DeletingCharactersAfterMultipleSubmittedWordsChangesGuessedWords" status="run" result="completed" time="0.015" timestamp="2022-12-18T02:27:02.140" classname="TuffleGame" />
+    <testcase name="SubmittingInvalidWordDoesNotChangeGuessedWords" status="run" result="completed" time="0.015" timestamp="2022-12-18T02:27:02.155" classname="TuffleGame" />
+  </testsuite>
+</testsuites>
